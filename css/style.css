@@ -55,6 +55,7 @@ img:hover {
 }
 .column > .small{
   float:left;
+  position: relative;
 }
 
 .column > .med{
