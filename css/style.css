@@ -48,7 +48,9 @@ img:hover {
   background-color: #dd4444;
 }
 
-
+.column{
+  height: 1000px;
+}
 /*.column:nth-of-type(3n) > .small{
   position: relative;
   float:left;
@@ -70,7 +72,7 @@ img:hover {
   height: 450px;
 
   position: relative;
-  top:-1000;
+  top:1000;
   left:200px;
 }
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
