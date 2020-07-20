@@ -46,16 +46,9 @@ img:hover {
   background-color: #dd4444;
 }
 
-.column:nth-child(1){
-  width: 25%;
+.container:first-of-type {
   display: flex;
-  flex-direction: column;
 }
-
-.column:nth-child(2){
-  float:right;
-}
-
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
