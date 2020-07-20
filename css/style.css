@@ -54,7 +54,6 @@ img:hover {
 }
 .column:nth-of-type(2) > .small{
   position: relative;
-  bottom: 10px;
   float:left;
 }
 /*.column > {
