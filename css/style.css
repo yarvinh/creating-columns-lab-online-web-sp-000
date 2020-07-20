@@ -54,7 +54,7 @@ img:hover {
 }
 .column:second-of-type{
   position: relative;
-  float:left;
+  float:right;
 }
 /*.column > {
   position: absolute;
