@@ -56,6 +56,10 @@ img:hover {
   position: relative;
   float:left;
 }
+.column:nth-of-type(3) > .small{
+  position: relative;
+  float:left;
+}
 /*.column > {
   position: absolute;
   left:10px;
