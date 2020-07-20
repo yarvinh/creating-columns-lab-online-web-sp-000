@@ -60,7 +60,7 @@ img:hover {
 .column > .med{
   width: 400px;
   height: 450px;
-
+float:left;
 }
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
