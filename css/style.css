@@ -73,7 +73,7 @@ img:hover {
   left:10px;
   top: 420px;
 }*/
-.column > .med{
+.column:first-of-type  > .med{
   width: 400px;
   height: 450px;
   /*position: absolute;*/
