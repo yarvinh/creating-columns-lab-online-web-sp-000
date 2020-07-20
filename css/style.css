@@ -48,7 +48,7 @@ img:hover {
   background-color: #dd4444;
 }
 
-.column-1 {
+.column-1 > .small{
   position: relative;
   float:left;
 }
