@@ -50,7 +50,7 @@ img:hover {
 
 .column:first-of-type{
   position: relative;
-  float:right;
+  float:left;
 }
 /*.column > {
   position: absolute;
