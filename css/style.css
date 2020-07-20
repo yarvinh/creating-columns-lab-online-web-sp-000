@@ -52,6 +52,10 @@ img:hover {
   flex-wrap: wrap;
 }
 
+.column:nth-child(2){
+  float:right;
+}
+
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
