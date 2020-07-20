@@ -69,7 +69,7 @@ img:hover {
   width: 400px;
   height: 450px;
 
-  position: absolute;
+  position: relative;;
   top:0;
   right:0
 }
