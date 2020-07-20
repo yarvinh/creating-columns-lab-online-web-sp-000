@@ -48,8 +48,7 @@ img:hover {
   background-color: #dd4444;
 }
 
-.column:first-of-type{
-
+{
   position: relative;
   float:left;
 }
