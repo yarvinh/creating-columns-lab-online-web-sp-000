@@ -78,7 +78,7 @@ img:hover {
   height: 450px;
   float:right;
   position: relative;
-  top:100;
+  bottom: 100;
   /*position: absolute;*/
   /*top:0;
   right:0*/
