@@ -62,8 +62,7 @@ img:hover {
 .column > .med{
   width: 400px;
   height: 450px;
-  
-  position: absolute;;
+  position: absolute;
   right:0;
   top: 0;
 
