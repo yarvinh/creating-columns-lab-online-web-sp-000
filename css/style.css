@@ -52,9 +52,10 @@ img:hover {
   position: relative;
   float:left;
 }
-.column:nth-of-type(2n) > .small{
+.column:nth-of-type(2){
   position: relative;
   float:left;
+
 }
 /*.column:nth-of-type(3n) > .small{
   position: relative;
