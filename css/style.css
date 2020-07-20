@@ -48,7 +48,6 @@ img:hover {
 
 .column{
   display: flex;
- flex-wrap: wrap;
 }
 
 
