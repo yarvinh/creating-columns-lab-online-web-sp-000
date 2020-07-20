@@ -49,6 +49,7 @@ img:hover {
 }
 
 .column{
+  width: 500px;
   height: 500px;
 }
 /*.column:nth-of-type(3n) > .small{
