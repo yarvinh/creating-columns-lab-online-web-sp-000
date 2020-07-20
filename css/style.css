@@ -52,22 +52,7 @@ img:hover {
   width: 500px;
   height: 500px;
 }
-/*.column:nth-of-type(3n) > .small{
-  position: relative;
-  float:left;
-}*/
-/*.column > {
-  position: absolute;
-  left:10px;
-  top: 215px;
 
-}
-
-.column > {
-  position: absolute;
-  left:10px;
-  top: 420px;
-}*/
 .column > .med{
   width: 400px;
   height: 450px;
