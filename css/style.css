@@ -47,6 +47,7 @@ img:hover {
 }
 
 .column{
+  width: 25%;
   display: flex;
   flex-wrap: wrap;
 }
