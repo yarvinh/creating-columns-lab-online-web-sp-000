@@ -54,6 +54,10 @@ img:hover {
   width: 33%;
 }
 
+.column:only-of-type(2) {
+  width: 66%;
+}
+
 
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
