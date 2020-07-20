@@ -10,10 +10,12 @@ body, html {
 
 .container, h1 {
   width: 80%;
+  height: 80%
   max-width: 600px;
   min-width: 400px;
   padding: 10px;
   margin: 10px auto;
+  position: relative;
 }
 
 h4 {
@@ -46,6 +48,30 @@ img:hover {
   background-color: #dd4444;
 }
 
+.column > #pic-1{
+
+  position: relative;
+  float:left;
+}
+.column > #pic-2{
+  position: absolute;
+  left:10px;
+  top: 215px;
+
+}
+
+.column > #pic-3{
+  position: absolute;
+  left:10px;
+  top: 420px;
+}
+.column > .med{
+  width: 400px;
+  height: 450px;
+  /*position: absolute;
+  top:0;
+  right:0*/
+}
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
 /* create your tile classes! we recommend .small .med .large */
