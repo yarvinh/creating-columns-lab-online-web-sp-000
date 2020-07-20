@@ -48,23 +48,22 @@ img:hover {
   background-color: #dd4444;
 }
 
-.column > #pic-1{
-
+.column > .small{
   position: relative;
   float:left;
 }
-.column > #pic-2{
+/*.column > {
   position: absolute;
   left:10px;
   top: 215px;
 
 }
 
-.column > #pic-3{
+.column > {
   position: absolute;
   left:10px;
   top: 420px;
-}
+}*/
 .column > .med{
   width: 400px;
   height: 450px;
