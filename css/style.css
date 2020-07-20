@@ -63,7 +63,7 @@ img:hover {
   width: 400px;
   height: 450px;
   float: right;
-  position: relative;
+  position: absolute;;
   left:280px;
   bottom: 750px;
 
