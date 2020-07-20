@@ -60,6 +60,10 @@ img:hover {
   flex-direction:column;
 }
 
+.bottom {
+  display:flex;
+}
+
 
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
