@@ -64,13 +64,13 @@ img:hover {
   left:10px;
   top: 420px;
 }*/
-.column > .med{
+/*.column > .med{
   width: 400px;
   height: 450px;
   position: absolute;
   top:0;
   right:0
-}
+}*/
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
 /* create your tile classes! we recommend .small .med .large */
