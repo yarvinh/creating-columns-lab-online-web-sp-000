@@ -63,6 +63,7 @@ img:hover {
   float: right;
   position: relative;
   left:280px;
+  top:200px;
 
 }
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
