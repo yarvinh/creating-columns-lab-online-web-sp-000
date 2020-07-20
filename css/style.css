@@ -54,7 +54,7 @@ img:hover {
   float:left;
 }
 .column > #pic-2{
-  position: relative;
+  position: absolute;
   left:100px;
   top: 215px;
 
