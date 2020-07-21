@@ -46,6 +46,26 @@ img:hover {
   background-color: #dd4444;
 }
 
+.container:first-of-type {
+  display: flex;
+}
+
+.column:first-of-type {
+  width: 33%;
+}
+
+.column:only-of-type(2) {
+  width: 66%;
+  display: flex;
+  flex-direction:column;
+}
+
+.bottom {
+  width: 66%;
+}
+
+
+
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
 /* create your tile classes! we recommend .small .med .large */
